@@ -1,6 +1,6 @@
 # visually-hidden
 
-.visually-hidden:not(:focus):not(:active),
+.visually-hidden,
 input[type='checkbox'].visually-hidden,
 input[type='radio'].visually-hidden {
   position: absolute;
